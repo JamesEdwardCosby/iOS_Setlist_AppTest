@@ -10,5 +10,5 @@
 #
 # Send Midi Program Changes
 #
-# To Multiple Devices at Track Playback
+# To Multiple Devices on Track Playback
 #
