@@ -4,7 +4,7 @@
 #
 # To Display and Play Music Tracks
 #
-# From Midi Control
+# From iOS Touch Screen and Midi Control
 #
 # Future Expansion...
 #
